@@ -1,4 +1,4 @@
-# Cell-Segmentation
+# End to End Cell-Segmentation using Yolo v8
 This project is about Cell Segmentation using Yolo v8
 
 
